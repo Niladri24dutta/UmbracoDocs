@@ -40,11 +40,11 @@ or
 
 If you need to link between pages, always link relatively, and include the .md extension.
 
-    [Umbraco.Helpers](Umbraco.Helpers.md)
+    [Umbraco.Helpers](Umbraco.Helpers.md.md)
 
 or
 
-    [Umbraco.Helpers](../../Reference/Umbraco.Helpers.md)
+    [Umbraco.Helpers](../../Reference/Umbraco.Helpers.md.md)
 
 ## Formatting code
 
